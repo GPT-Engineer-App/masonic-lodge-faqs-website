@@ -32,7 +32,7 @@ const Index = () => {
         </Box>
 
         <Box>
-          <Image src="https://images.unsplash.com/photo-1584368694033-e9a6da4c4ced?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxtYXNvbmljJTIwbG9kZ2V8ZW58MHx8fHwxNzE1Njk4Nzc5fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Masonic Lodge" borderRadius="md" />
+          <Image src="https://images.unsplash.com/photo-1601758123927-1a9f3b8c8c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxtYXNvbmljJTIwbG9kZ2V8ZW58MHx8fHwxNjE1Njk4Nzc5fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Masonic Lodge" borderRadius="md" />
         </Box>
 
         <Box>
